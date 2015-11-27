@@ -1,0 +1,28 @@
+name: Sam Kidd
+favicon: null
+layout_spectrum: 0.9919060603715479
+typography_spectrum: 0.6473985677585006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5996914634015411
+  lightness: 0.3882049936801195
+  saturation: 0.26573306415230036
+  rhythmicContrast: 0.2271497764158994
+purpose: []
