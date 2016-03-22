@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sam Kidd]]></title>
         <description><![CDATA[Sam Kidd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sam-kidd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 00:14:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 22:13:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sam-kidd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Mount in Tauranga. ]]></title>
+            <description><![CDATA[<article><h1>The Mount in Tauranga. </h1><p>Mount Maunganui is located atop a sand bar that connects Mauao to the mainland, a geographical formation known as a tombolo. Because of this formation, the residents of Mount Maunganui have both a harbour beach (Pilot Bay) and an ocean beach with great surf, within a short distance. At the base of Mauao, the distance between the harbour and ocean side is a couple of blocks. The ocean beach has Mauao or Mount Maunganui at its western end, and a man made land bridge connecting Moturiki Island at its eastern end. Adjacent to Mount Maunganui on it's south-eastern edge (from Sandhurst Drive onwards) is Papamoa Beach, another very large suburb of Tauranga. Papamoa Beach has a slightly larger population than Mount Maunganui, but doesn't have as many businesses as Mount Maunganui. Both suburbs are distinctly geographically separate from the rest of Tauranga by the Tauranga Harbour; two road bridges (SH2 and SH29) and a windy rural road (Welcome Bay Road) are the only feasible access ways to the rest of the city. Mauao is an extinct volcanic cone which rises above the town, but is colloquially known in New Zealand simply as The Mount. According to Maori legend, this hill was a pononga [slave] to a mountain called Otanewainuku.[3] The conical headland which gives the town its name is 232 metres (761 ft) in height, and dominates the mostly flat surrounding countryside. It was formerly a Māori pā, and the remains of trenches can be seen in the ridges, as well as ancient shell middens. Today, it is open to the public year round, and is a popular place to either walk around, or climb up. From the summit, a good stretch of coastline can be seen in either direction, as well as the Kaimai Range to the west.</p></article>]]></description>
+            <link>https://thegrid.ai/sam-kidd/the-mount-in-tauranga/index.html</link>
+            <guid isPermaLink="false">600039f2-c079-4f30-a003-a7472a1dbffa</guid>
+            <pubDate>Tue, 22 Mar 2016 22:13:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello from Papamoa]]></title>
-            <description><![CDATA[<article><h1>Hello from Papamoa</h1><p>null</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01e13c2a-331e-4c45-b483-ef60e22916dd.jpg"></article>]]></description>
-            <link>undefinedhello-from-papamoa/index.html</link>
+            <description><![CDATA[<article><h1>Hello from Papamoa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4be75ab2d8f9e9eb2d54960c0cb8d1329fc3b9dd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sam-kidd/hello-from-papamoa/index.html</link>
             <guid isPermaLink="false">5f03ed78-752d-437a-81a3-1fd31b86e41c</guid>
             <pubDate>Fri, 27 Nov 2015 00:14:38 GMT</pubDate>
         </item>
