@@ -1,7 +1,7 @@
 name: Sam Kidd
 favicon: null
-layout_spectrum: 0.9919060603715479
-typography_spectrum: 0.6473985677585006
+layout_spectrum: 0.64479
+typography_spectrum: 0.40876
 title: Sam Kidd
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5996914634015411
-  lightness: 0.3882049936801195
-  saturation: 0.26573306415230036
-  rhythmicContrast: 0.2271497764158994
+    - '#000000'
+    - '#d3f0fe'
+    - '#4f8be4'
+    - '#172f4d'
+    - '#9f9375'
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
