@@ -4,7 +4,7 @@
         <description><![CDATA[Sam Kidd]]></description>
         <link>https://thegrid.ai/sam-kidd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 22:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 00:36:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sam-kidd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Mount in Tauranga. ]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Tue, 22 Mar 2016 22:13:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hello from Papamoa]]></title>
-            <description><![CDATA[<article><h1>Hello from Papamoa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4be75ab2d8f9e9eb2d54960c0cb8d1329fc3b9dd.jpg"></article>]]></description>
+            <title><![CDATA[This is my first Hello World post.]]></title>
+            <description><![CDATA[<article><h1>This is my first Hello World post.</h1><p>Now it's time to work out how to add content from around the web and also how to get the site to look and act as I would like</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4be75ab2d8f9e9eb2d54960c0cb8d1329fc3b9dd.jpg"></article>]]></description>
             <link>https://thegrid.ai/sam-kidd/hello-from-papamoa/index.html</link>
             <guid isPermaLink="false">5f03ed78-752d-437a-81a3-1fd31b86e41c</guid>
-            <pubDate>Fri, 27 Nov 2015 00:14:38 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 00:36:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
