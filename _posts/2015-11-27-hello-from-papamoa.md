@@ -5,27 +5,24 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-27T00:14:38.239Z'
-dateModified: '2015-11-27T00:14:21.730Z'
-title: Hello from Papamoa
+description: "Now it's time to work out how to add content from around the web and also how to get the site to look and act as I would like"
+datePublished: '2016-03-23T00:36:17.987Z'
+dateModified: '2016-03-23T00:36:17.329Z'
+title: This is my first Hello World post.
 author: []
+sourcePath: _posts/2015-11-27-hello-from-papamoa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-27-hello-from-papamoa.md
-published: true
 url: hello-from-papamoa/index.html
 _type: Article
 
 ---
-null
-null
+# This is my first Hello World post.
 
-This is my first Hello World post.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01e13c2a-331e-4c45-b483-ef60e22916dd.jpg)
-
-Hello from sunny Papamoa NZ.
+Now it's time to work out how to add content from around the web and also how to get the site to look and act as I would like
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fa43084ee245694425a4e9e4f28f78f9/passthrough.jpg?height=500&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F4be75ab2d8f9e9eb2d54960c0cb8d1329fc3b9dd.jpg&width=750)
